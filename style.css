@@ -1,0 +1,531 @@
+a{
+    color: rgb(0, 0, 0);
+    text-decoration:none;
+}
+*{
+    margin: 0%;
+}
+header{
+    background-color: rgb(255, 255, 255);
+    height: 160px;
+    width: 100%;
+    font-size: large;
+    
+}
+header img{
+    margin-top: 10px;
+    float: left;
+    margin-left: 40px;
+
+}
+
+.container{
+    width: 100% ;
+    margin: 300 auto;
+    padding: 0%
+    
+}
+.titlu h1{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+    color: rgb(255, 255, 255);
+    margin-top: 10px 0px;
+    margin-left: 38%;
+}
+.titlu h2{
+    text-align: left;
+    padding-bottom: 20px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+    color: rgb(255, 255, 255);
+    margin-top: 10px 0px;
+    margin-left: 38% ;
+}
+nav{
+    float: right;
+    
+    }
+    nav ul{
+        margin-top: 30px
+        text-align: center;
+        font-size: 100px;
+        margin-left: 90% 0%% ;
+        
+        
+       
+    }
+    nav ul li{
+        display: inline-block;
+        margin: 18px;
+        font-size: large;
+    }
+    nav ul li a{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .film{
+        width: 8%;
+    height: 563px;
+        background-color: white;
+       
+       
+        margin-left: 13%;
+        
+       
+    }
+    .mesaje{
+        text-align: left;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+    color: rgb(255, 255, 255);
+    margin-top: 10px 0px;
+    margin-left: 15%;
+    }
+    .mesaje h6{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 30px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        letter-spacing: 1px;
+        color: rgb(255, 255, 255);
+        margin-top: 10px 0px;
+        margin-left: 50% ;
+    }
+    .tabel{
+        width: 100% ;
+        background-color: rgb(255, 255, 255);
+       
+    }
+    .tabel table{
+        width: 100%;
+        background-color: rgb(255, 255, 255);
+       
+    }
+    .tabel table th{
+        text-align-last: left;
+        size: 20px;
+        padding: 5px 0px;
+    }
+    .tabel table tr{
+       border-style: solid;
+        border-width: 3px;
+        border-color: rgb(0, 0, 0);
+    }
+    .tabel table td{
+        color: rgb(0, 0, 0);
+        padding: 7.5px 0px;
+    }
+    .tabel h1{
+        text-align: left;
+    padding-bottom: 20px;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+    color: rgb(0, 0, 0);
+    margin-top: 10px 0px;
+    margin-left: 38%;
+    }
+    .tabel p{
+        text-align: left;
+    padding-bottom: 20px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 1px;
+    color: rgb(0, 0, 0);
+    margin-top: 10px 0px;
+    margin-left: 24%;
+    }
+    .tabell{
+        width: 100% ;
+        background-color: rgb(255, 255, 255);
+       
+    }
+    .tabell table{
+        width: 100%;
+        background-color:#333333;
+       
+    }
+    .tabell table th{
+        text-align-last: left;
+        size: 30px;
+        padding: 5px 0px;
+        color: rgb(0, 0, 0);
+    }
+    .tabell table tr{
+       border-style: solid;
+        border-width: 3px;
+        border-color: rgb(0, 0, 0);
+    }
+    .tabell table td{
+        color: rgb(0, 0, 0);
+        padding: 7.5px 0px;
+    }
+    .despre h1{
+        text-align: left;
+    padding-bottom: 20px;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+    color: rgb(0, 0, 0);
+    margin-top: 10px 0px;
+    margin-left: 38%;
+    }
+    .despre p{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 8%;
+    }
+    .despre a{
+        color: rgb(163, 0, 0);
+    }
+    .tabell a{
+        color:white
+    }
+    .servicii h1{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 40px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 45%;
+    }
+    .servicii h2{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 35%;
+    }
+    .servicii p{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 8%;
+    }
+    .mecanica h3{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 35%;
+    }
+    .mecanica h7{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 8%;
+    
+    }
+    .mecanica p{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 8%;
+    
+    }
+    section img{
+        margin-left: 8%;
+    }
+    .mecanica a{
+        color: red;
+    }
+    .titlull h1{
+        text-align: left;
+    padding-bottom: 20px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+    color: rgb(0, 0, 0);
+    margin-top: 10px 0px;
+    margin-left: 27%;
+    }
+    .titlull h2{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 25px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 47%;
+       
+    }
+    .titlull h3{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 25px;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 37%;
+       
+    }
+    .text p{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 8%;
+    }
+    .text h4{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 8%;
+    }
+    .text a{
+        color: red;
+    }
+    .reparatii h1{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 26px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 8%;
+    }
+    .reparatii h4{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 25px;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 37%;
+    }
+    .reparatii p{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 8%;
+    }
+    .reparatii h6{
+        text-align: left;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+    color: rgb(0, 0, 0);
+    margin-top: 10px 0px;
+    margin-left: 8%;
+    }
+    .city h1{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 25px;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 4%;
+    }
+    .city h2{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 25px;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 4%;
+    }
+    .city h3{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 25px;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 4%;
+    }
+    .ceva h3{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 25px;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 4%;
+    }
+    footer img{
+        margin-left: 60%;
+        float: center ;
+        padding:  1%;
+        
+      
+    }
+    .verificaree h1{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 25px;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 27%;
+    }
+    .verificaree h2{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 25px;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 40%;
+    }
+    .verificaree h7{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 18px;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 20%;
+    }
+    .verificaree h8{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 18px;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 39%;
+    }
+    .mecanic p{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 8%;
+    }
+    .mecanic h4{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 18px;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 8%;
+    }
+    .tabel{
+        width: 100% ;
+        background-color: ivory;
+        padding: 60px 0px;
+        margin-left: 8%;
+        
+    }
+    .tabel table{
+        width: 100%;
+        background-color:white;
+       
+       
+    }
+    .tabel table th{
+        text-align-last: left;
+        size: 20px;
+        padding: 5px 0px;
+        
+    }
+    .tabel table tr{
+       border-style: solid;
+        border-width: 30px;
+        border-color: black;
+        
+    }
+    
+    .tabel table td{
+        color:black;
+        padding: 7px 0px;
+        
+        
+    }
+    .tabel a {
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+    }
+    .verificareee a{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 15px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        letter-spacing: 1px;
+        color: rgb(169, 169, 169);
+        margin-top: 10px 0px;
+        margin-left: 2%;
+    }
+    .verificareee p{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 2%;
+    }
+    .verificaree p{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 8%;
+    }
+    .verificaree a{
+        color: red;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .verificaree h3{
+        text-align: left;
+        padding-bottom: 20px;
+        font-size: 25px;
+        letter-spacing: 1px;
+        color: rgb(0, 0, 0);
+        margin-top: 10px 0px;
+        margin-left: 20%;
+    }
